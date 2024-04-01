@@ -17,10 +17,10 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-**ENGENHARIA DE REQUISITOS** <ph1> 
+**ENGENHARIA DE REQUISITOS** <h1> 
 
 
 
-**_Conceito Geral:_**  <ph2>
+**_Conceito Geral:_**  <h2>
 
 
