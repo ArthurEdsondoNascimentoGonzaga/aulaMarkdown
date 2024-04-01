@@ -22,3 +22,5 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 **_Conceito Geral:_**  <ph2>
+
+
