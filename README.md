@@ -17,10 +17,26 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-**ENGENHARIA DE REQUISITOS** <h1> 
+# _ENGENHARIA DE REQUISITOS_ #
+
+# _Conceito Geral:_ # 
+* Elicitação de Requisitos: Identificação e documentação das necessidades do usuário e do sistema.
+* Análise e Especificação de Requisitos: Organização e descrição clara dos requisitos, incluindo funcionais e não funcionais.
+* Validação de Requisitos: Verificação da precisão, relevância e completude dos requisitos.
+* Gestão de Requisitos: Controle de mudanças nos requisitos ao longo do ciclo de vida do projeto.
+* Comunicação com Stakeholders: Interação contínua para garantir compreensão e validação dos requisitos.
+# _TIPOS DE REQUISITOS:_ #
 
 
+ _REQUISITOS FUNCIONAIS_
+* Descrição das funcionalidades: Detalhamento das ações que o sistema deve realizar em resposta a entradas específicas.
 
-**_Conceito Geral:_**  <h2>
+* Comportamento do sistema: Especificação das interações entre o sistema e seus usuários, bem como entre os diferentes componentes do sistema.
 
+* Casos de uso: Identificação dos diferentes cenários de uso do sistema, descrevendo as ações que os usuários podem realizar e as respostas esperadas do sistema.
 
+* Requisitos de dados: Definição dos tipos de dados a serem manipulados pelo sistema, incluindo entradas, saídas e armazenamento de dados.
+
+* Restrições de desempenho: Estabelecimento de metas de desempenho, como tempo de resposta, capacidade de processamento e uso de recursos.
+
+* Priorização de funcionalidades: Classificação das funcionalidades com base em sua importância para os usuários e para o sucesso do projeto.
