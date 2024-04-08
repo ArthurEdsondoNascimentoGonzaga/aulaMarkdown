@@ -28,7 +28,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 # _TIPOS DE REQUISITOS:_ #
 
 
- _REQUISITOS FUNCIONAIS_
+ _REQUISITOS FUNCIONAIS:_
 * Descrição das funcionalidades: Detalhamento das ações que o sistema deve realizar em resposta a entradas específicas.
 
 * Comportamento do sistema: Especificação das interações entre o sistema e seus usuários, bem como entre os diferentes componentes do sistema.
@@ -40,3 +40,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 * Restrições de desempenho: Estabelecimento de metas de desempenho, como tempo de resposta, capacidade de processamento e uso de recursos.
 
 * Priorização de funcionalidades: Classificação das funcionalidades com base em sua importância para os usuários e para o sucesso do projeto.
+![image](https://github.com/ArthurEdsondoNascimentoGonzaga/aulaMarkdown/assets/164903811/3a710735-3809-415a-8d4d-55cde43f4845)
+
+_REQUISITOS NÃO FUNCIONAIS:_
+
+
