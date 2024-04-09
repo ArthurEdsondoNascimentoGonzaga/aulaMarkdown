@@ -44,4 +44,16 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 _REQUISITOS NÃO FUNCIONAIS:_
 
+* Desempenho: Refere-se à capacidade do sistema de atender às demandas de desempenho, como tempo de resposta, tempo de processamento, throughput, capacidade de carga e escalabilidade. Por exemplo, um sistema de comércio eletrônico deve ser capaz de processar um grande número de transações simultaneamente sem diminuir significativamente o tempo de resposta.
+
+* Segurança: Envolve a proteção dos dados e recursos do sistema contra acessos não autorizados, modificações não autorizadas, roubo de informações, entre outros. Por exemplo, um sistema de gerenciamento de informações médicas deve garantir que apenas profissionais autorizados tenham acesso aos registros dos pacientes.
+
+* Usabilidade: Refere-se à facilidade de uso do sistema, incluindo aspectos como intuitividade da interface do usuário, facilidade de aprendizado, eficiência de uso e satisfação do usuário. Por exemplo, um sistema de reservas de hotel deve ser fácil de navegar e permitir que os usuários concluam suas reservas com poucos cliques.
+
+* Confiabilidade: Refere-se à capacidade do sistema de desempenhar suas funções conforme o esperado, mantendo-se operacional ao longo do tempo, mesmo em condições adversas. Por exemplo, um sistema de controle de tráfego aéreo deve ser altamente confiável para garantir a segurança dos voos.
+
+* Manutenibilidade: Refere-se à facilidade com que o sistema pode ser modificado, corrigido ou atualizado. Isso inclui aspectos como modularidade, documentação adequada, facilidade de depuração e capacidade de teste. Por exemplo, um sistema de gerenciamento de estoque deve ser projetado de forma a permitir atualizações frequentes para acompanhar as mudanças nas demandas do mercado.
+
+  <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png" width="600px">
+  
 
