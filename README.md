@@ -68,5 +68,7 @@ _REQUISITOS NÃO FUNCIONAIS:_
 
 # Links:
 https://www.monitoratec.com.br/blog/engenharia-de-requisitos/
+
 https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png
+
 https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png
