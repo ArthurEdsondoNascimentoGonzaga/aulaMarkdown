@@ -55,5 +55,18 @@ _REQUISITOS NÃO FUNCIONAIS:_
 * Manutenibilidade: Refere-se à facilidade com que o sistema pode ser modificado, corrigido ou atualizado. Isso inclui aspectos como modularidade, documentação adequada, facilidade de depuração e capacidade de teste. Por exemplo, um sistema de gerenciamento de estoque deve ser projetado de forma a permitir atualizações frequentes para acompanhar as mudanças nas demandas do mercado.
 
   <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png" width="600px">
+
+# Engeharia de requisitos tabela de vantagens de desvantagens:
+
+| Vantagens                                                                      | Desvantagens                             |
+|--------------------------------------------------------------------------------|------------------------------------------|
+| Maior domínio dos processos de negócio de cliente                              | roubo de dados pessoal de sites ou apps  |
+| Maior capacidade de identificação e gestão dos riscos envolvidos               | praticas golpes virtuais                 |
+| Maior capacidade de priorização de itens de entrega                            | o usuario fica inseguro diante do perigo |
+| Clareza a respeito dos resultados esperados tanto no sucesso quanto nas falhas | o circulamento de informações do úsuario |
   
 
+# Links:
+https://www.monitoratec.com.br/blog/engenharia-de-requisitos/
+https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png
+https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png
